@@ -30,16 +30,16 @@ h1, h2, h3{
     padding: 10px 10px 10px 10px;
 }
 
-#nav{
+#nav-bar{
     width: 180px;
     float: left;
 }
 
-#nav .selected{
+#nav-bar .link{
     font-weight: bold;
 }
 
-#nav ul{
+#nav-bar ul{
     list-style-type: none;
     padding: 0;
 }
